@@ -1,0 +1,9 @@
+name: PrefixAPI
+author: TookieDev
+version: 1.0
+
+
+main: de.epiclabs.PrefixAPI.main.Main
+
+
+commands:
